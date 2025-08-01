@@ -18,3 +18,7 @@ __pycache__/
 
 # 기타 올리고 싶지 않은 파일
 *.log
+
+test.csv
+train.csv
+sample_submission.csv
