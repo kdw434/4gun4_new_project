@@ -1,0 +1,4 @@
+ipykernel
+pandas
+catboost
+scikit-learn
